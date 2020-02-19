@@ -8,7 +8,7 @@ class Type extends Component {
 
     return (
       <div className="flex-grid">
-          <button className="go-back__button" onClick={event =>  window.location.href='http://localhost:8080/fss/public/'}>
+          <button className="go-back__button" onClick={event =>  window.location.href='http://draos.nomadmatch.io/'}>
               Back
           </button>
           {

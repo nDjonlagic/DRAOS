@@ -1,6 +1,6 @@
 const env = {
-  core: 'http://localhost:8080/fss/public/',
-  api: 'http://localhost:8080/fss/public/api/'
+  core: 'http://draos.nomadmatch.io/',
+  api: 'http://draos.nomadmatch.io/api/'
 }
 
 export default env
