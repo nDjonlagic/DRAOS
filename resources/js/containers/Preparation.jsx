@@ -127,7 +127,7 @@ class Preparation extends Component {
             take={this.take}
             cont={this.cont}
             />
-          <a href="/fss/public/staff" className="go-back__button" style={{ textAlign: 'center' }}>
+          <a href="/staff" className="go-back__button" style={{ textAlign: 'center' }}>
             Back to main screen
           </a>
         </div>

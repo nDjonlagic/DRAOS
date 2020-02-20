@@ -61225,7 +61225,7 @@ function (_Component) {
       return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
         className: "wrapper-app"
       }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h3", null, "Your order is being prepared"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", null, "Please don't close this window. We will notify you once your order is prepared. In the mean-time don't forget to check-out all the other meals we have in our fast-food."), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-        src: 'http://www.laplatashops.com/wp-content/uploads//2018/04/start-burger.gif'
+        src: 'https://i.pinimg.com/originals/7c/98/fd/7c98fdf56fb54121465775d8287e0cb6.gif'
       }));
     }
   }]);
@@ -63093,7 +63093,7 @@ function (_Component) {
         payments: this.state.orders,
         paid: this.paid
       }), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("a", {
-        href: "/fss/public/staff",
+        href: "/staff",
         className: "go-back__button",
         style: {
           textAlign: 'center',
@@ -63445,7 +63445,7 @@ function (_Component) {
         take: this.take,
         cont: this.cont
       }), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("a", {
-        href: "/fss/public/staff",
+        href: "/staff",
         className: "go-back__button",
         style: {
           textAlign: 'center'

@@ -52,7 +52,7 @@ class Payments extends Component {
             payments={this.state.orders}
             paid={this.paid}
             />
-          <a href="/fss/public/staff" className="go-back__button" style={{ textAlign: 'center', maxWidth: '320px' }}>
+          <a href="/staff" className="go-back__button" style={{ textAlign: 'center', maxWidth: '320px' }}>
             Back to main screen
           </a>
         </div>
