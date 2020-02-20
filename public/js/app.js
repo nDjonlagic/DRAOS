@@ -61546,7 +61546,7 @@ function (_Component) {
       }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("button", {
         className: "go-back__button",
         onClick: function onClick(event) {
-          return window.location.href = 'http://localhost:8080/fss/public/';
+          return window.location.href = 'http://draos.nomadmatch.io/';
         }
       }, "Back"), types.map(function (item, key) {
         return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
@@ -63486,8 +63486,8 @@ if (document.getElementById('preparation')) {
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 var env = {
-  core: 'http://localhost:8080/fss/public/',
-  api: 'http://localhost:8080/fss/public/api/'
+  core: 'http://draos.nomadmatch.io/',
+  api: 'http://draos.nomadmatch.io/api/'
 };
 /* harmony default export */ __webpack_exports__["default"] = (env);
 
