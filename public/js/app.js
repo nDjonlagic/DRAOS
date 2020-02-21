@@ -62828,7 +62828,7 @@ function (_Component) {
         className: "flex-container__white",
         style: {
           background: '#363744',
-          paddingTop: '260px'
+          paddingTop: '370px'
         }
       }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(_components_order_actions_Back__WEBPACK_IMPORTED_MODULE_13__["default"], {
         back: this.back
@@ -63562,8 +63562,8 @@ var send = function send(endpoint) {
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! C:\xampp\htdocs\fss\resources\js\app.js */"./resources/js/app.js");
-module.exports = __webpack_require__(/*! C:\xampp\htdocs\fss\resources\sass\app.scss */"./resources/sass/app.scss");
+__webpack_require__(/*! C:\Users\ndjonlagic.CT\Desktop\DRAOS\resources\js\app.js */"./resources/js/app.js");
+module.exports = __webpack_require__(/*! C:\Users\ndjonlagic.CT\Desktop\DRAOS\resources\sass\app.scss */"./resources/sass/app.scss");
 
 
 /***/ })

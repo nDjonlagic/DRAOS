@@ -351,7 +351,7 @@ class Order extends Component {
           meal
           &&
           <div className="flex-container flex-2">
-            <div className="flex-container__white" style={{ background: '#363744', paddingTop: '260px'}}>
+            <div className="flex-container__white" style={{ background: '#363744', paddingTop: '370px'}}>
               <Back
                 back={this.back}
                 />
